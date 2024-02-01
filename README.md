@@ -1,3 +1,5 @@
+<!-- Project Title -->
+<h1 align="center">🚀 Learner Blog</h1>
 
 <!-- Project Badges -->
 <p align="center">
@@ -5,9 +7,6 @@
   <img src="https://img.shields.io/github/license/learnershakil/learnerblog" alt="License">
   <img src="https://img.shields.io/github/last-commit/learnershakil/learnerblog" alt="Last Commit">
 </p>
-
-<!-- Project Title -->
-<h1 align="center">🚀 My Coding Playground</h1>
 
 <!-- Project Description -->
 <p align="center">
