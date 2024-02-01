@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^blog\.xenithub\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.blog\.xenithub\.com$
+RewriteRule ^/?$ "https\:\/\/blog\.xenithub\.com\/public\/" [R=301,L]
+
